@@ -41,5 +41,5 @@ The project successfully produces visually appealing stylized images. Here's an 
 # Content Image:
 ![Image](https://github.com/user-attachments/assets/803c6974-3a23-49e1-a6cd-e1c1fd37422f)
 # Style Image:
-
+![Image](https://github.com/user-attachments/assets/14cb283b-b1b5-4f77-8807-b595980ea7f4)
 # output image: 
